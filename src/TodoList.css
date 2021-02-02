@@ -1,0 +1,8 @@
+.TodoList {
+  margin: auto;
+  text-align: centre;
+}
+
+.Todo .Todo-buttons i {
+  display: inline-block;
+}
